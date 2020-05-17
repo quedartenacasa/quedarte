@@ -14,8 +14,13 @@ sections:
   templates:
   - post
 - type: directory
+<<<<<<< Updated upstream
   path: content/gal/blog
   label: Post
+=======
+  path: content/french/blog
+  label: Post (fr)
+>>>>>>> Stashed changes
   create: documents
   match: "**/*"
   templates:
@@ -30,8 +35,8 @@ sections:
   templates:
   - author
 - type: directory
-  path: content/gal/author
-  label: Author (gl)
+  path: content/french/author
+  label: Author (fr)
   create: documents
   match: "**/*"
   templates:
@@ -46,8 +51,8 @@ sections:
   templates:
   - project
 - type: directory
-  path: content/gal/coleccion
-  label: Colección (gl)
+  path: content/french/project
+  label: Project (fr)
   create: documents
   match: "**/*"
   templates:
@@ -60,8 +65,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/gal/sobre-nos
-  label: Sobre Nós (gl)
+  path: content/french/about
+  label: About (fr)
   create: none
   match: "*"
 - type: directory
@@ -70,8 +75,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/gal/servizo
-  label: Servizo (gl)
+  path: content/french/service
+  label: Service (fr)
   create: none
   match: "*"
 - type: directory
@@ -80,8 +85,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/gal/pricing
-  label: Pricing (gl)
+  path: content/french/pricing
+  label: Pricing (fr)
   create: none
   match: "*"
 - type: directory
@@ -90,8 +95,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/gal/faq
-  label: FAQ (gl)
+  path: content/french/faq
+  label: FAQ (fr)
   create: none
   match: "*"
 - type: directory
@@ -100,8 +105,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/gal/contacto
-  label: Contacto (gl)
+  path: content/french/contact
+  label: Contact (fr)
   create: none
   match: "*"
 - type: directory
@@ -112,8 +117,8 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: content/gal/pages
-  label: Created Pages (gl)
+  path: content/french/pages
+  label: Created Pages (fr)
   create: all
   match: "**/*"
   templates:
@@ -126,8 +131,8 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: content/gal
-  label: All Pages (gl)
+  path: content/french
+  label: All Pages (fr)
   create: all
   match: "**/*"
   templates:
@@ -140,8 +145,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: data/gl
-  label: Data (gl)
+  path: data/fr
+  label: Data (fr)
   create: all
   match: "**/*"
 - type: directory
