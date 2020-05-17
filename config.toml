@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Airspace | Creative Agency Hugo Template"
+baseURL = ""
+title = "QuedArte na casa"
 theme = "quedarte-theme"
 # post pagination
 paginate = "4"
