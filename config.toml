@@ -1,19 +1,11 @@
-baseURL = "https://quedarte.netlify.app/"
 DefaultContentLanguage = "gl"
-disableLanguages = ["en","fr"]
+baseURL = "https://quedarte.netlify.app/"
+disableLanguages = ["en", "fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "quedArte-theme"
 title = "QuedArte na casa"
-
-[Languages.gl]
-contentDir = "content/gal"
-copyright = "Feito con paixón e software libre ♥."
-home = "Inicio"
-languageCode = "gl"
-languageName = "Galego"
-weight = 1
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -21,7 +13,13 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 3
-
+[Languages.gl]
+contentDir = "content/gal"
+copyright = "Feito con paixón e software libre ♥."
+home = "Inicio"
+languageCode = "gl"
+languageName = "Galego"
+weight = 1
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
@@ -50,7 +48,6 @@ weight = 5
 URL = "contacto"
 name = "Contacto"
 weight = 6
-
 [[menu.main]]
 URL = "blog"
 name = "Blog"
@@ -64,6 +61,7 @@ URL = "servizo"
 name = "Servizos"
 weight = 3
 [[menu.main]]
+URL = "proxecto"
 hasChildren = true
 name = "proxecto"
 weight = 4
