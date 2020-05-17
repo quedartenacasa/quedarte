@@ -3,7 +3,7 @@ disableLanguages = []
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
-theme = "quedarte-theme"
+theme = "quedArte-theme"
 title = "QuedArte na casa"
 [Languages.en]
 contentDir = "content/english"
