@@ -152,7 +152,8 @@ sections:
 - type: heading
   label: Configuration
 - type: directory
-  path:   label: Configuration
+  path:  Sitio
+  label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
