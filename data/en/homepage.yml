@@ -1,0 +1,107 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/slider-bg.jpg"
+  title : "QuedArte na casa"
+  content : "Un espazo de expresión colectiva, de construción de relatos, de discusión a través de imaxes, vídeos, fotografías, sons, literatura, poesía..."
+  button:
+    enable : true
+    label : "Explora o noso proxecto"
+    link : "project"
+
+############################# About #################################
+about:
+  enable : true
+  title : "OLA! BENVIDA, BENVIDO!"
+  description : "Queres saber que é QuedArte na casa?"
+  content : "
+  QuedArte na casa é un proxecto participativo que nace en marzo de 2020, durante a corentena polo Covid-19. O obxectivo deste proxecto é crear un MUSEO VIRTUAL con coleccións e itinerarios realizadas a partir das mostras que aporta cada un de nós. É un espazo aberto e voluntario que pretende transmitir ideas e inquietudes, impulsar a unha relación sensible entre o observador-obra-autor, e dar voz a aquelas persoas que queren ser escoitadas.
+  
+
+
+  Ademais, temos como obxectivo a creación dunha exposición física a partires dalgunhas imaxes para poder facer máis real a experiencia sensorial que nos transmite cada mostra.
+  "
+  image : "images/wrapper-img.png"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/featue-bg.jpg"
+  title : "Por que un museo virtual?"
+  content : "
+  A arte a través dos soportes dixitais e internet supón un desafío á vez que nos outorga a posibilidade de analizar unha reconfiguración e mesmo transformación dos modos de exposición, presentación e comunicación.
+  
+
+
+  <br>Decidimos poñer a etiqueta de Museo Virtual a QuedArte na casa por ser, en termos xerais, unha forma de producir unha experiencia diferenciada, creada pola comunidade, que poida xerar crítica e reflexións.  
+  
+  "
+  button:
+    enable : true
+    label : "Ver obras"
+    link : "project"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "Esinamos ao mundo aquelo que queiras mostrar"
+  content : ""
+  button:
+    enable : true
+    label : "Contacta con nós!"
+    link : "contact"
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "QUEN ESTÁ DETRÁS?"
+  description : "Se queres formar parte da equipa de Brais e Lucía, non dubides en nolo facer saber! Realmente sen a vosa colaboración o proxecto non ten sentido.
+          A construción de relatos participativos deixa de ter significado no momento no que a web quede sen contido, ideas, conceptos, imaxes...
+          
+
+          QuedArte na casa somos todos e todas nós!
+          
+          "
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-beer" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Cañas tomadas"
+      count : "90"
+      
+    # funfacts item loop
+    - icon : "ion-ios-home-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Días na casa"
+      count : "65"
+      
+    # funfacts item loop
+    - icon : "ion-ios-heart-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Apertas dadas"
+      count : "1250"
+      
+    # funfacts item loop
+    - icon : "ion-ios-lightbulb-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "ideas"
+      count : "200"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Lucía Santiago"
+      image : "images/nos/lucia.jpg"
+      designation : "Creadora"
+      content : "Estudante do mestrado de Xestión, Protección e Valoración do Patrimonio Cultural."
+                
+    # testimonial item loop
+    - name : "Brais Calvo"
+      image : "images/nos/brais.jpg"
+      designation : "Artista técnico"
+      content : "Un día espertei entre letras técnicas."
+   
