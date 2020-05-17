@@ -14,8 +14,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/french/blog
-  label: Post (fr)
+  path: content/gal/blog
+  label: Post (gl)
   create: documents
   match: "**/*"
   templates:
@@ -30,8 +30,8 @@ sections:
   templates:
   - author
 - type: directory
-  path: content/french/author
-  label: Author (fr)
+  path: content/gal/author
+  label: Author (gl)
   create: documents
   match: "**/*"
   templates:
@@ -46,8 +46,8 @@ sections:
   templates:
   - project
 - type: directory
-  path: content/french/project
-  label: Project (fr)
+  path: content/gal/project
+  label: Project (gl)
   create: documents
   match: "**/*"
   templates:
@@ -60,8 +60,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/french/about
-  label: About (fr)
+  path: content/gal/about
+  label: About (gl)
   create: none
   match: "*"
 - type: directory
@@ -70,8 +70,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/french/service
-  label: Service (fr)
+  path: content/gal/service
+  label: Service (gl)
   create: none
   match: "*"
 - type: directory
@@ -80,8 +80,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/french/pricing
-  label: Pricing (fr)
+  path: content/gal/pricing
+  label: Pricing (gl)
   create: none
   match: "*"
 - type: directory
@@ -90,8 +90,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/french/faq
-  label: FAQ (fr)
+  path: content/gal/faq
+  label: FAQ (gl)
   create: none
   match: "*"
 - type: directory
@@ -100,8 +100,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/french/contact
-  label: Contact (fr)
+  path: content/gal/contact
+  label: Contact (gl)
   create: none
   match: "*"
 - type: directory
@@ -112,8 +112,8 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: content/french/pages
-  label: Created Pages (fr)
+  path: content/gal/pages
+  label: Created Pages (gl)
   create: all
   match: "**/*"
   templates:
@@ -126,8 +126,8 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: content/french
-  label: All Pages (fr)
+  path: content/gal
+  label: All Pages (gl)
   create: all
   match: "**/*"
   templates:
@@ -140,8 +140,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: data/fr
-  label: Data (fr)
+  path: data/gl
+  label: Data (gl)
   create: all
   match: "**/*"
 - type: directory
