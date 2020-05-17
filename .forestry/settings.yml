@@ -152,7 +152,7 @@ sections:
 - type: heading
   label: Configuration
 - type: directory
-  path: Sitio
+  path: ''
   label: Configuration
   create: all
   match: "*.toml"
