@@ -30,8 +30,8 @@ sections:
   templates:
   - author
 - type: directory
-  path: content/french/author
-  label: Author (fr)
+  path: content/gal/author
+  label: Author (gl)
   create: documents
   match: "**/*"
   templates:
@@ -46,8 +46,8 @@ sections:
   templates:
   - project
 - type: directory
-  path: content/french/project
-  label: Project (fr)
+  path: content/gal/project
+  label: Project (gl)
   create: documents
   match: "**/*"
   templates:
@@ -60,7 +60,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/french/about
+  path: content/gal/sobre-nos
   label: About (fr)
   create: none
   match: "*"
