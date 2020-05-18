@@ -6,24 +6,10 @@ webhook_url:
 sections:
 - type: heading
   label: Blog Post
-- type: directory
-  path: content/gal/blog
-  label: Post (gl)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
 - type: heading
   label: Author
 - type: heading
   label: Project
-- type: directory
-  path: content/gal/coleccion
-  label: Coleccion (gl)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
 - type: heading
   label: Others Pages
 upload_dir: static/images
