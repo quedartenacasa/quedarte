@@ -3,43 +3,40 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Basic"
-      price: "$99"
-      content : "Perfect for single freelancers who work by themselves"
+    - name : "Mil historias"
+      price: "-"
+      content : "50 días de confinamento, confitado?"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - Arte
+        - Arte
+        - Arte
+        - Arte
+        - Arte
         
     # pricing table loop
-    - name : "Premium"
-      price: "$199"
-      content : "Suitable for small businesses with up to 5 employees"
+    - name : "Mil historias"
+      price: "-"
+      content : "50 días de confinamento, confitado?"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - Arte
+        - Arte
+        - Arte
+        - Arte
+        - Arte
         
     # pricing table loop
-    - name : "Advance"
-      price: "$299"
-      content : "Suitable for large businesses with unlimited employees"
+    - name : "Mil historias"
+      price: "-"
+      content : "50 días de confinamento, confitado?"
       link : "#"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
+        - Arte
+        - Arte
+        - Arte
+        - Arte
+        - Arte
         
 ############################# call to action #################################
 cta:
