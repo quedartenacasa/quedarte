@@ -31,28 +31,16 @@ sections:
   match: "**/*"
   templates:
   - project
-- type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
+  path: content/gal/about
+  label: Sobre nos (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
+  path: content/gal/servizo
+  label: Servizo (gl)
   create: none
   match: "*"
 - type: directory
@@ -81,11 +69,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/french/contact
   label: Contact (fr)
   create: none
@@ -98,22 +81,8 @@ sections:
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
   path: exampleSite/content/english
   label: All Pages (en)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
   create: all
   match: "**/*"
   templates:
