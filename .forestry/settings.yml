@@ -70,8 +70,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/french/service
-  label: Service (fr)
+  path: content/gal/servizo
+  label: Servizo (gl)
   create: none
   match: "*"
 - type: directory
