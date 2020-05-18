@@ -44,28 +44,8 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: content/french/pricing
-  label: Pricing (fr)
-  create: none
-  match: "*"
-- type: directory
   path: content/english/faq
   label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: content/french/faq
-  label: FAQ (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: content/english/contact
-  label: Contact (en)
   create: none
   match: "*"
 - type: directory
@@ -74,40 +54,21 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/english/pages
+  path: content/gal/pages
   label: Created Pages (en)
   create: documents
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: content/french/pages
-  label: Created Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: content/english
-  label: All Pages (en)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: content/french
-  label: All Pages (fr)
+  path: content/gal
+  label: All Pages (gl)
   create: all
   match: "**/*"
   templates:
   - new-page
 - type: heading
   label: Data
-- type: directory
-  path: data/en
-  label: Data (en)
-  create: all
-  match: "**/*"
 - type: directory
   path: data/gl
   label: Data (gl)
