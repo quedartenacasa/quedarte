@@ -44,22 +44,10 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: content/french/contact
+  path: content/gal/contacto
   label: Contacto (gl)
   create: none
   match: "*"
-- type: directory
-  path: content/gal/pages
-  label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
 - type: directory
   path: content/gal
   label: All Pages (gl)
