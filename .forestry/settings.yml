@@ -37,11 +37,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/gal/contacto
-  label: Contacto (gl)
-  create: none
-  match: "*"
-- type: directory
   path: content/gal
   label: All Pages (gl)
   create: all
