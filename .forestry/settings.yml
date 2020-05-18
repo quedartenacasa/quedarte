@@ -26,23 +26,6 @@ sections:
   - project
 - type: heading
   label: Others Pages
-- type: directory
-  path: content/gal/sobre-nos
-  label: Sobre nós (gl)
-  create: none
-  match: "*"
-- type: directory
-  path: content/gal/servizo
-  label: Servizo (gl)
-  create: none
-  match: "*"
-- type: directory
-  path: content/gal
-  label: All Pages (gl)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
