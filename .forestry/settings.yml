@@ -61,7 +61,7 @@ sections:
   match: "*"
 - type: directory
   path: content/gal/sobre-nos
-  label: About (fr)
+  label: Sobre nós (gl)
   create: none
   match: "*"
 - type: directory
@@ -140,8 +140,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: data/fr
-  label: Data (fr)
+  path: data/gl
+  label: Data (gl)
   create: all
   match: "**/*"
 - type: directory
