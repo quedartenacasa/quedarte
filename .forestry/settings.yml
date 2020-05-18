@@ -101,7 +101,7 @@ sections:
   match: "*"
 - type: directory
   path: content/french/contact
-  label: Contact (fr)
+  label: Contacto (gl)
   create: none
   match: "*"
 - type: directory
