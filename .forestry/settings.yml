@@ -44,32 +44,22 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
+  path: content/gal/pricing
+  label: Pricing (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
+  path: content/gal/faq
+  label: FAQ (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
+  path: content/gal/contacto
+  label: Contacto (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/faq
-  label: FAQ (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pages
+  path: content/english/pages
   label: Created Pages (en)
   create: documents
   match: "**/*"
