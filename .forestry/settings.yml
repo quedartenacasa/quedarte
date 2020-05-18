@@ -31,89 +31,43 @@ sections:
   match: "**/*"
   templates:
   - project
-- type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/english/about
-  label: About (en)
+  path: content/gal/about
+  label: Sobre nos (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
+  path: content/gal/servizo
+  label: Servizo (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
+  path: content/gal/pricing
+  label: Pricing (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
+  path: content/gal/faq
+  label: FAQ (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
+  path: content/gal/contacto
+  label: Contacto (gl)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/faq
-  label: FAQ (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/contact
-  label: Contact (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pages
+  path: content/gal/pages
   label: Created Pages (en)
   create: documents
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/english
-  label: All Pages (en)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
+  path: content/gal
+  label: Todas as páxinas (gl)
   create: all
   match: "**/*"
   templates:
@@ -121,30 +75,25 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
-  label: Data (en)
+  path: data/gl
+  label: Data (gl)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
+  path: i18n
   label: i18n
   create: documents
   match: "**/*"
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: ''
   label: Configuration
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
-public_path: "/images"
+upload_dir: static/images/blog
+public_path: static/images/blog
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
