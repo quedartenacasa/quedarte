@@ -43,21 +43,6 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: heading
-  label: Data
-- type: directory
-  path: i18n
-  label: i18n
-  create: documents
-  match: "**/*"
-- type: heading
-  label: Configuration
-- type: directory
-  path: ''
-  label: Configuration
-  create: all
-  match: "*.toml"
-  new_doc_ext: toml
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
