@@ -22,13 +22,6 @@ sections:
   match: "**/*"
   templates:
   - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
 - type: heading
   label: Project
 - type: directory
