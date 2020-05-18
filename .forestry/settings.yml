@@ -15,13 +15,6 @@ sections:
   - post
 - type: heading
   label: Author
-- type: directory
-  path: content/gal/author
-  label: Author (gl)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
 - type: heading
   label: Project
 - type: directory
@@ -57,11 +50,6 @@ sections:
   - new-page
 - type: heading
   label: Data
-- type: directory
-  path: data/gl
-  label: Data (gl)
-  create: all
-  match: "**/*"
 - type: directory
   path: i18n
   label: i18n
