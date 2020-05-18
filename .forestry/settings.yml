@@ -16,8 +16,8 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
+  path: content/gal/author
+  label: Author (gl)
   create: documents
   match: "**/*"
   templates:
