@@ -70,12 +70,12 @@ URL = "sobre-nos"
 name = "Sobre nós"
 weight = 5
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
+URL = "coleccion"
+name = "Coleccións"
 parent = "proxecto"
 [[menu.main]]
-URL = "pricing"
-name = "Pricing"
+URL = "catalogo"
+name = "Catalogo"
 parent = "proxecto"
 [[menu.main]]
 URL = "contacto"
