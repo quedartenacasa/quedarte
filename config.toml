@@ -54,7 +54,7 @@ name = "Blog"
 weight = 1
 [[menu.main]]
 URL = "coleccion"
-name = "Coleccións"
+name = "Colección"
 weight = 2
 [[menu.main]]
 URL = "servizo"
