@@ -47,7 +47,7 @@ sections:
   - project
 - type: directory
   path: content/gal/coleccion
-  label: Project (gl)
+  label: Coleccion (gl)
   create: documents
   match: "**/*"
   templates:
