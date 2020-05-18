@@ -85,17 +85,12 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
-  label: Data (en)
+  path: data/gl
+  label: Data (gl)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
+  path: i18n
   label: i18n
   create: documents
   match: "**/*"
