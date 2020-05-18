@@ -44,11 +44,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/pricing
   label: Pricing (en)
   create: none
@@ -107,7 +102,7 @@ sections:
 - type: heading
   label: Configuration
 - type: directory
-  path: exampleSite
+  path: ''
   label: Configuration
   create: all
   match: "*.toml"
