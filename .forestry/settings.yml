@@ -59,15 +59,15 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/english/pages
+  path: content/gal/pages
   label: Created Pages (en)
   create: documents
   match: "**/*"
   templates:
   - new-page
 - type: directory
-  path: exampleSite/content/english
-  label: All Pages (en)
+  path: content/gal
+  label: Todas as páxinas (gl)
   create: all
   match: "**/*"
   templates:
