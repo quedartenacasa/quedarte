@@ -16,7 +16,7 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: content/gal/author
+  path: content/gal/autor
   label: Autores (gl)
   create: documents
   match: "**/*"
@@ -34,7 +34,7 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
-  path: content/gal/about
+  path: content/gal/sobre-nos
   label: Sobre nós (gl)
   create: none
   match: "*"
@@ -44,7 +44,7 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: content/gal/pricing
+  path: content/gal/catalogo
   label: Catálogo (gl)
   create: none
   match: "*"
