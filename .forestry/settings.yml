@@ -7,15 +7,8 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: content/gal/blog
+  label: Post (gl)
   create: documents
   match: "**/*"
   templates:
@@ -23,15 +16,8 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
+  path: content/gal/author
+  label: Author (gl)
   create: documents
   match: "**/*"
   templates:
@@ -39,8 +25,8 @@ sections:
 - type: heading
   label: Project
 - type: directory
-  path: exampleSite/content/english/project
-  label: Project (en)
+  path: content/gal/coleccion
+  label: Coleccion (gl)
   create: documents
   match: "**/*"
   templates:
