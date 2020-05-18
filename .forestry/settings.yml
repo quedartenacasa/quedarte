@@ -17,7 +17,7 @@ sections:
   label: Author
 - type: directory
   path: content/gal/author
-  label: Author (gl)
+  label: Autores (gl)
   create: documents
   match: "**/*"
   templates:
@@ -35,7 +35,7 @@ sections:
   label: Others Pages
 - type: directory
   path: content/gal/about
-  label: Sobre nos (gl)
+  label: Sobre nós (gl)
   create: none
   match: "*"
 - type: directory
@@ -45,12 +45,7 @@ sections:
   match: "*"
 - type: directory
   path: content/gal/pricing
-  label: Pricing (gl)
-  create: none
-  match: "*"
-- type: directory
-  path: content/gal/faq
-  label: FAQ (gl)
+  label: Catálogo (gl)
   create: none
   match: "*"
 - type: directory
@@ -58,13 +53,6 @@ sections:
   label: Contacto (gl)
   create: none
   match: "*"
-- type: directory
-  path: content/gal/pages
-  label: Created Pages (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - new-page
 - type: directory
   path: content/gal
   label: Todas as páxinas (gl)
@@ -88,7 +76,7 @@ sections:
   label: Configuration
 - type: directory
   path: ''
-  label: Configuration
+  label: Configuración
   create: all
   match: "*.toml"
   new_doc_ext: toml
