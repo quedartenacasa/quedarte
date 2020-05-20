@@ -21,9 +21,9 @@
               <li><i class="ion-android-people"></i>
                 {{ i18n "posted_by" }}
                 {{if $.Site.Params.multi_author}}
-                {{ range $index, $elements:= .Params.Author }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+                {{ range $index, $elements:= .Params.Author }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `autor/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
                 {{else}}
-                <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a>
+                <a class="text-primary" href="{{ `autor/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a>
                 {{end}}
               </li>
               <li><i class="ion-pricetags"></i> 
