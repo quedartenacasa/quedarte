@@ -1,8 +1,8 @@
 ---
-title: 'O que foi e o que xa non é: isto é patrimonio'
+title: Historias de maquía
 date: 2020-05-01T05:07:10.000+00:00
 author: Lucía
-image: images/blog/MILHO.jpg
+image: static/images/blog/IMG_0518.jpg
 bg_image: images/featue-bg.jpg
 categories:
 - Memoria
@@ -15,19 +15,15 @@ description: "..."
 type: post
 
 ---
-Como ben dicía Cunqueiro Galiza é o país dos mil ríos, pero sobre todo é o país de labregos. Un mundo no que o “hoxe por ti e mañá por min” define a unha comunidade unida que vivía e, en menor medida vive, coas súas propias normas sociais e costumes na Galiza labrega. Nas aldeas espalladas pola nosa rexión — unha rexión de ríos, fontes, regatos pequenos, prados ríos e arboredas \[...\] aos que tanto aloumiñou Rosalía cos seus versos — aínda se manteñen algunhas mostras do denominado patrimonio etnográfico. Mais, o seu sentido está caendo no esquecemento. Será que, como dixo un día Isaac Díaz Pardo "que gran país e que caralho de xente", unha frase moi axeitada para ser usada nos tempos de anulación do que hoxe non é produtivo.
+Como ben dicía Cunqueiro Galiza é o país dos mil ríos, pero sobre todo é o país de labregos. Un mundo no que o “hoxe por ti e mañá por min” define a unha comunidade unida que vivía e, en menor medida vive, coas súas propias normas sociais e costumes na Galiza labrega. Nas aldeas espalladas pola nosa rexión — unha rexión de ríos, fontes, regatos pequenos, prados ríos e arboredas \[...\] aos que tanto aloumiñou Rosalía cos seus versos —  mantéñense algunhas mostras do denominado patrimonio etnográfico. Mais, o seu sentido está caendo no esquecemento. Será que, como dixo un día Isaac Díaz Pardo "que gran país e que caralho de xente", unha frase moi axeitada para ser usada nos tempos de anulación do que hoxe non é produtivo.
 
-Os muíños de río xa non teñen sentido no modelo económico no que vivimos. Algúns son como obxectos de museo, mostras que pasan a ter un "potencial turístico" e se converten nun "valor engadido" para a configuración de rutas de sendeirismo: un paseo perfecto pola ribeira con muíños vestidos de gala. Outros, son simplemente ruínas cheas de lembranzas, experiencias, simbolismos... ou pedra caída.
+Os muíños de río xa non teñen sentido no modelo económico no que vivimos. Algúns son como obxectos de museo, mostras que pasan a ter un "potencial turístico" e se converten nun "valor engadido" para a configuración de rutas de sendeirismo: un paseo perfecto pola ribeira con muíños vestidos de gala. Outros, son simplemente ruínas cheas de lembranzas, experiencias, simbolismos... ou un monte de pedra.
 
-Sexa como for, hoxe falamos do que foi e xa non é. Será a nostalxia por un pasado non vivido cheo de valores simbólicos ou será idealización do rural o que nos leva a isto. Non o sabemos ou mais ben non queremos entrar en complexidades teóricas da cultura do territorio e das percepcións identitarias, só queremos contar este conto.
-
-## **A MAQUÍA DO TEMPO**
+Sexa como for, hoxe falamos do que foi e xa non é. Será a nostalxia por un pasado non vivido cheo de valores simbólicos ou será idealización do rural o que nos leva a isto. Non o sabemos ou mais ben non queremos entrar en complexidades teóricas da cultura do territorio e das percepcións identitarias, só queremos contar este conto:
 
 ![Patrimonio etnográfico](/images/blog/IMG_0526.jpg "Muíño de río")
 
-É por isto, que querendo desviar o curso do río do esquecemento e fertilizar a nosa historia recente, vos presento un conto de experiencias vividas. Os protagonistas? Os nosos avós e avoas que viviron e viven da terra, e co papel secundario e non menos importantes os muíños de río; un todo que non se tería dado sen a riqueza do patrimonio territorial galego.
-
-![Patrimonio etnográfico, memoria](/images/blog/IMG-20200304-WA0010.jpeg "Concha e Tucho cun ramo de liño de Laíno")
+É por isto, que querendo desviar o curso do río do esquecemento e fertilizar a nosa historia recente, vos presento este conto de experiencias vividas. Os protagonistas? Os que viviron e viven da terra, e co papel secundario e non menos importantes os muíños de río; un todo que non se tería dado sen a riqueza do patrimonio territorial galego.
 
 Concha e Tucho son dous avós que foron nados en dúas parroquias do actual concello de Valga, Xanza e Setecoros, xusto no ano que estalou a Guerra Civil. Viviron e viven da terra, economía de subsistencia no que o campo era a gran fonte de recursos, os ciclos agrarios a súa biblia labrega e as patacas, trigo, centeo, millo e as verzas seus mandamentos divinos.
 
@@ -35,7 +31,7 @@ Concha e Tucho son dous avós que foron nados en dúas parroquias do actual conc
 
 O trigo e o millo era moi importante nas dietas dos nosos avós, con eles facían o pan, empanadas, papas de millo... Eles ían ao muíño que había ao outro lado da ribeira do Río Louro, xusto enfronte do seu galiñeiro. Alí moían o millo os xoves e sábados de todo o ano e facían pan cada oito días porque como se di _o que ten muíño e forno come o pan todo_.
 
-![Patrimonio etnográfico](/images/blog/IMG_0530.JPG "Muíño da Barcia")
+![](static/images/blog/img_0518-1.jpg)
 
 Este muíño, o muíño da Barcia ten 28 donos repartidos por Cerneira, os Cotriños e Senín; daba igual de que casa viñeses e se tiñas máis ou menos porque ao final foses abade ou só veciño viñamos todos moer ao muíño.
 
@@ -91,8 +87,10 @@ O muíño de Senín tamén paga a súa maquía, cazos verdes, tellados sen tella
 
 Ata aquí o noso conto. Como dixemos, algúns muíños da Galiza están reformados para pasaren a ser un recurso turístico, unha forma de recuperación da súa figura material. Porén, non fai que sintamos que sexa máis ou menos parte de nós se non coñecemos os múltiples significados que pode ter un espazo, máis aló das partes ou funcionamentos dos muíños.
 
-A memoria dos nosos en relación ao territorio, as formas de vivir... coñecer un anaco da nosa esencia fará que sintamos que cada experiencia vivida pasa a formar parte da nosa propia vida. Ao igual que non hai ponte sen río nin muíño sen rodicio, tampouco hai cultura sen memoria nin identidade sen aprecio.
+A memoria dos nosos en relación ao territorio, as formas de vivir... coñecer un anaco da nosa esencia fará que sintamos que cada experiencia vivida pasa a formar parte da nosa propia vida. Ao igual que non hai ponte sen río nin muíño sen rodicio, tampouco hai cultura sen memoria nin identidade sen aprecio. 
 
-##### Boca sen moas é como un muíño sen pedra
+##### 
 
 ![Patrimonio cultural](/images/blog/IMG_0473.jpg "Moa do muíño")
+
+###### _Boca sen moas é como un muíño sen pedra_
