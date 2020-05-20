@@ -1,10 +1,10 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "50 días de confinamento, confitado?"
+description: "Xestión socioemocional"
 draft: false
-image : "images/portfolio/work1.jpg"
+image : "images/portfolio/milhistorias/50tampliarhorizontes.jpg"
 bg_image: "images/featue-bg.jpg"
-category: "UI/UX Design"
+category: "Xestión socioemocional"
 information:
   - label : "Autora"
     info : "Rosa Veiga"
