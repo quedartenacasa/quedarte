@@ -127,14 +127,11 @@ preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
+icon = "ion-ios-list-outline"
+link = "https://forms.gle/tCcvUnaEsaz46hncA"
 [[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
+icon = "ion-social-instagram-outline"
+link = "https://www.instagram.com/quedartenacasa/"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#"

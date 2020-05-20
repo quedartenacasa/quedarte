@@ -1,7 +1,7 @@
 - id: last_update
   translation: Última actualización
 - id: phone
-  translation: Phone
+  translation: Teléfono
 - id: email
   translation: Correo electrónico
 - id: location
@@ -9,7 +9,7 @@
 - id: buy_now
   translation: Descubre
 - id: address_title
-  translation: Stop By For A visit
+  translation: Contacta connosco
 - id: submit
   translation: Envía unha mensaxe
 - id: all
