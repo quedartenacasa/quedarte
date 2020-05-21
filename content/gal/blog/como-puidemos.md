@@ -1,6 +1,6 @@
 +++
 author = "J.S."
-bg_image = ""
+bg_image = "static/images/blog/diseno-sin-titulo-40.png"
 categories = ["Artigos de reflexión"]
 date = 2020-05-20T22:00:00Z
 description = ""
