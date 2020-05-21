@@ -4,7 +4,6 @@ bg_image = ""
 categories = ["Artigos de reflexión"]
 date = 2020-05-20T22:00:00Z
 description = ""
-draft = true
 image = "static/images/blog/diseno-sin-titulo-40.png"
 tags = ["Covid-19"]
 title = "Como puidemos?"
