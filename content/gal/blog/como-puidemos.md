@@ -1,6 +1,6 @@
 +++
 author = "J.S."
-bg_image = "static/images/blog/diseno-sin-titulo-40.png"
+bg_image = "static/images/blog/autora_-leticia_priegue-tecnica_-acuarela-e-bordado-1.png"
 categories = ["Artigos de reflexión"]
 date = 2020-05-20T22:00:00Z
 description = ""
