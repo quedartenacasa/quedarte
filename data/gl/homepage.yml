@@ -37,7 +37,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: static/images/blog/l-s.png
   title: Esinamos ao mundo aquelo que queiras mostrar
   content: ''
   button:
