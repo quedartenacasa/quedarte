@@ -2,7 +2,7 @@
 author = "J.S."
 bg_image = ""
 categories = ["Artigos de reflexión"]
-date = 2020-05-29T22:00:00Z
+date = 2020-05-20T22:00:00Z
 description = ""
 draft = true
 image = "static/images/blog/diseno-sin-titulo-40.png"
