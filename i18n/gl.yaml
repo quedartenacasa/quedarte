@@ -15,7 +15,7 @@
 - id: all
   translation: Todo
 - id: posted_by
-  translation: Publicador por
+  translation: "Escrito por:"
 - id: read_more
   translation: Lee máis
 - id: latest_posts
