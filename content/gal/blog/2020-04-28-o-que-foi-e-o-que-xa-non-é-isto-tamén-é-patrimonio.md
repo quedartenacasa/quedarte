@@ -3,7 +3,7 @@ title: Historias de maquía
 date: '2020-05-01T05:07:10.000+00:00'
 author: Lucía
 image: images/blog/img_0518-1.jpg
-bg_image: images/featue-bg.jpg
+bg_image: images/blog/img_0518-1.jpg
 categories:
 - Memoria
 tags:

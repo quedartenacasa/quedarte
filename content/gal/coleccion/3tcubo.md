@@ -4,7 +4,7 @@ description: "Xestión socioemocional"
 draft: false
 image : "images/portfolio/milhistorias/3tcubo.jpg"
 category: "Xestión socioemocional"
-bg_image: "images/featue-bg.jpg"
+bg_image : "images/portfolio/milhistorias/3tcubo.jpg"
 information:
   - label : "Autora"
     info : "Rosa Veiga"
