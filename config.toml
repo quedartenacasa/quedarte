@@ -21,6 +21,10 @@ languageCode = "gl"
 languageName = "Galego"
 weight = 1
 [[menu.footer]]
+name = "Enquisa"
+url = "https://forms.gle/tCcvUnaEsaz46hncA"
+weight = 8
+[[menu.footer]]
 URL = "contacto"
 name = "Contacto"
 weight = 7
