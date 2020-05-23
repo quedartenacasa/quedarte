@@ -101,6 +101,8 @@ location = "North Main Street,Brooklyn Australia"
 logo = "images/logo.png"
 mobile = ""
 multi_author = false
+gtm_id = "GTM-K4W8Q59"
+gtm_datalayer = "basic"
 [params.gmap]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
