@@ -3,7 +3,7 @@
 - id: phone
   translation: Teléfono
 - id: email
-  translation: Correo electrónico
+  translation: Enderezo electrónico
 - id: location
   translation: Localización
 - id: buy_now
@@ -30,3 +30,11 @@
   translation: Categorías
 - id: collection_details
   translation: Máis información 
+- id: form_subject
+  translation: Asunto
+- id: form_text
+  translation: Introduce o seu texto
+- id: form_name
+  translation: Nome
+- id: form_email
+  translation: Enderezo electrónico

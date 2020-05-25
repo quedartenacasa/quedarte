@@ -84,7 +84,7 @@ name = "Contacto"
 weight = 4
 [params]
 author = "QuedArte"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/xeqraavg"
 description = "Un espazo de expresión colectiva, de construción de relatos, de discusión a través de imaxes, vídeos, fotografías, sons, literatura, poesía…"
 email = "quedartenacasa@gmail.com"
 google_analitycs_id = ""
@@ -135,9 +135,4 @@ link = "https://forms.gle/tCcvUnaEsaz46hncA"
 [[params.social]]
 icon = "ion-social-instagram-outline"
 link = "https://www.instagram.com/quedartenacasa/"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
+

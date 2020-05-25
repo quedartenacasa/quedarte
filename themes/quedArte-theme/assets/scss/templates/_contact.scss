@@ -8,7 +8,7 @@
       margin: 0px;
 
       .form-control {
-        background: #F6F8FA;
+        background: $bg;
         height: 60px;
         border: 1px solid #EEF2F6;
         box-shadow: none;
@@ -20,7 +20,7 @@
       margin-bottom: 13px;
 
       textarea {
-        background: #F6F8FA;
+        background: $bg;
         height: 135px;
         border: 1px solid #EEF2F6;
         box-shadow: none;
@@ -31,7 +31,7 @@
     button {
       width: 100%;
       height: 60px;
-      background: #47424C;
+      background: $black;
       border: none;
       color: #fff;
       font-size: 18px;
