@@ -8,7 +8,7 @@ theme = "quedArte-theme"
 title = "QuedArte na casa"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = ""
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -20,77 +20,68 @@ home = "Inicio"
 languageCode = "gl"
 languageName = "Galego"
 weight = 1
-[[menu.footer]]
-name = "Enquisa"
-url = "https://forms.gle/tCcvUnaEsaz46hncA"
-weight = 8
-[[menu.footer]]
-URL = "contacto"
-name = "Contacto"
-weight = 7
-[[menu.footer]]
-URL = "sobre-nos"
-name = "Sobre nós"
-weight = 6
-[[menu.footer]]
-URL = "proxecto"
-name = "Proxecto"
-weight = 5
-[[menu.footer]]
-URL = "sobre-nos"
-name = "Sobre nós"
-weight = 1
-[[menu.footer]]
-URL = "servizo"
-name = "Servizos"
-weight = 4
-[[menu.footer]]
-URL = "coleccion"
-name = "Colección"
-weight = 3
+
+# [[menu.footer]]
+# URL = "sobre-nos"
+# name = "Sobre nós"
+# weight = 6
+# [[menu.footer]]
+# URL = "servizo"
+# name = "Servizos"
+# weight = 4
 [[menu.footer]]
 URL = "blog"
 name = "Blog"
-weight = 2
-[[menu.main]]
-name = "Enquisa"
-url = "https://forms.gle/tCcvUnaEsaz46hncA"
-weight = 6
-[[menu.main]]
-URL = "coleccion"
-name = "Coleccións"
-parent = "proxecto"
 weight = 1
-[[menu.main]]
-URL = "catalogo"
-name = "Catalogo"
-parent = "proxecto"
-weight = 2
-[[menu.main]]
+[[menu.footer]]
 URL = "coleccion"
 name = "Colección"
 weight = 2
-[[menu.main]]
+[[menu.footer]]
+name = "Enquisa"
+url = "https://forms.gle/tCcvUnaEsaz46hncA"
+weight = 3
+[[menu.footer]]
 URL = "contacto"
 name = "Contacto"
-weight = 7
-[[menu.main]]
-URL = "sobre-nos"
-name = "Sobre nós"
 weight = 4
-[[menu.main]]
-URL = "proxecto"
-hasChildren = true
-name = "proxecto"
-weight = 3
-[[menu.main]]
-URL = "servizo"
-name = "Servizos"
-weight = 5
+# parent = "proxecto"
+# [[menu.main]]
+# URL = "catalogo"
+# name = "Catalogo"
+# parent = "proxecto"
+# weight = 2
+
+
+# [[menu.main]]
+# URL = "sobre-nos"
+# name = "Sobre nós"
+# weight = 4
+# [[menu.main]]
+# URL = "proxecto"
+# hasChildren = true
+# name = "proxecto"
+# weight = 3
+# [[menu.main]]
+# URL = "servizo"
+# name = "Servizos"
+# weight = 5
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 1
+[[menu.main]]
+URL = "coleccion"
+name = "Colección"
+weight = 2
+[[menu.main]]
+name = "Enquisa"
+url = "https://forms.gle/tCcvUnaEsaz46hncA"
+weight = 3
+[[menu.main]]
+URL = "contacto"
+name = "Contacto"
+weight = 4
 [params]
 author = "QuedArte"
 contact_form_action = "#"
