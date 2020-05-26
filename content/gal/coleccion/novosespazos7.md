@@ -10,7 +10,7 @@ information:
     info : "María L."
   - label : "Título"
     info : "Novos espazos."
-  - label : "Descripción"
+  - label : "Descrición"
     info: "Viaxe á Lisboa das rúas baleiras."
   - label : "Web"
     info : ""
@@ -19,7 +19,7 @@ information:
     
 ---
 
-## Descripción
+## Descrición
 
 "Turismo já sofre com Covid-19", así anunciaban os medios portugueses a chegada da pandemia mundial ao país luso.
 

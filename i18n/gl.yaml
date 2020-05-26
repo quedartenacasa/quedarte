@@ -33,7 +33,7 @@
 - id: form_subject
   translation: Asunto
 - id: form_text
-  translation: Introduce o seu texto
+  translation: Introduce o teu texto
 - id: form_name
   translation: Nome
 - id: form_email
