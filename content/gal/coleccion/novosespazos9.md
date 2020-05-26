@@ -3,7 +3,7 @@ title: "Novos espazos"
 description: "Viaxe á Lisboa das rúas baleiras."
 draft: false
 image : "images/portfolio/novosespazos/9.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image : "images/portfolio/novosespazos/9.jpg"
 category: "Novos Espazos"
 information:
   - label : "Autora"
