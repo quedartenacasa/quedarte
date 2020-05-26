@@ -3,7 +3,7 @@ title: "50 días de confinamento, confitado?"
 description: "Xestión socioemocional"
 draft: false
 image : "images/portfolio/milhistorias/42torde.jpg"
-bg_image: "images/featue-bg.jpg"
+bg_image: "images/portfolio/milhistorias/42torde.jpg"
 category: "Xestión socioemocional"
 information:
   - label : "Autora"
