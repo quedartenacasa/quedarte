@@ -23,7 +23,7 @@ about:
   image: images/wrapper-img.png
 portfolio:
   enable: true
-  bg_image: "/images/blog/puxedo-autor-da-fotografia_-f-b.png"
+  bg_image: images/blog/slide_2.jpg
   title: Por que un museo virtual?
   content: |2
      A arte a través dos soportes dixitais e internet supón un desafío á vez que nos outorga a posibilidade de analizar unha reconfiguración e mesmo transformación dos modos de exposición, presentación e comunicación.
