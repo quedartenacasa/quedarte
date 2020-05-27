@@ -1,5 +1,5 @@
 DefaultContentLanguage = "gl"
-baseURL = "https://quedarte.netlify.app/"
+baseURL = "https://quedartenacasa.gal"
 disableLanguages = ["en", "fr"]
 disqusShortname = ""
 paginate = "4"
