@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: "/images/blog/_7_.jpg"
   title: QuedArte na casa
   content: Un espazo de expresión colectiva, de construción de relatos, de discusión
     a través de imaxes, vídeos, fotografías, sons, literatura, poesía...
