@@ -1,6 +1,6 @@
 ---
 title: Historias de maquía
-date: '2020-05-01T05:07:10.000+00:00'
+date: 2020-05-01T05:07:10.000+00:00
 author: Lucía
 image: images/blog/img_0518-1.jpg
 bg_image: images/blog/img_0518-1.jpg
@@ -13,6 +13,7 @@ tags:
 - memoria
 description: "..."
 type: post
+draft: true
 
 ---
 Como ben dicía Cunqueiro Galiza é o país dos mil ríos, pero sobre todo é o país de labregos. Un mundo no que o “hoxe por ti e mañá por min” define a unha comunidade unida que vivía e, en menor medida vive, coas súas propias normas sociais e costumes na Galiza labrega. Nas aldeas espalladas pola nosa rexión — unha rexión de ríos, fontes, regatos pequenos, prados ríos e arboredas \[...\] aos que tanto aloumiñou Rosalía cos seus versos —  mantéñense algunhas mostras do denominado patrimonio etnográfico. Mais, o seu sentido está caendo no esquecemento. Será que, como dixo un día Isaac Díaz Pardo "que gran país e que caralho de xente", unha frase moi axeitada para ser usada nos tempos de anulación do que hoxe non é produtivo.
