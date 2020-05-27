@@ -1,11 +1,11 @@
 ---
 title: "Rio Furniture"
 title: "50 días de confinamento, confitado?"
-description: "Xestión socioemocional"
+description: "50 días"
 draft: false
 image : "images/portfolio/milhistorias/5tsinpresa.jpg"
 bg_image : "images/portfolio/milhistorias/5tsinpresa.jpg"
-category: "Xestión socioemocional"
+category: "50 días"
 information:
   - label : "Autora"
     info : "Rosa Veiga"
@@ -14,7 +14,7 @@ information:
   - label : "Web"
     info : "https://www.milhistorias.eu"
   - label : "Clasificación"
-    info : "Xestión socioemocional"
+    info : "50 días"
     
 ---
 

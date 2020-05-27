@@ -1,10 +1,10 @@
 ---
 title: "50 días de confinamento, confitado?"
-description: "Xestión socioemocional"
+description: "50 días"
 draft: false
 image : "images/portfolio/milhistorias/15tcasiarcodavella.jpg"
 bg_image : "images/portfolio/milhistorias/15tcasiarcodavella.jpg"
-category: "Xestión socioemocional"
+category: "50 días"
 information:
   - label : "Autora"
     info : "Rosa Veiga"
@@ -13,7 +13,7 @@ information:
   - label : "Web"
     info : "https://www.milhistorias.eu"
   - label : "Clasificación"
-    info : "Xestión socioemocional"
+    info : "50 días"
     
 ---
 

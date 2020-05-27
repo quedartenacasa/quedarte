@@ -1,19 +1,21 @@
 ---
-title: "Lista de tarefas"
-description: "Viaxe á Lisboa das rúas baleiras."
+title: "Recomezar"
+description: "-"
 draft: false
-image : "images/portfolio/listatarefas/_1_.jpg"
-bg_image : "images/portfolio/listatarefas/_1_.jpg"
-category: "Lista de tarefas"
+image : "images/portfolio/recomezar/_4_.jpg"
+bg_image : "images/portfolio/recomezar/_4_.jpg"
+category: "Recomezar"
 information:
   - label : "Autor"
     info : "Alejo Romero Fontán"
   - label : "Título"
-    info : "Lista de tarefas."
+    info : "Recomezar."
   - label : "Instagram"
     info : "@aromtan"
+  - label : "Instagram"
+    info : "@alejoromerofoto"
   - label : "Clasificación"
-    info : "listatarefas"
+    info : "Recomezar"
     
 ---
 

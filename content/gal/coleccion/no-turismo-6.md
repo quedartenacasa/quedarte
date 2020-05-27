@@ -1,21 +1,21 @@
 ---
-title: "Novos espazos"
+title: "No-turismo?"
 description: "Viaxe á Lisboa das rúas baleiras."
 draft: false
-image : "images/portfolio/novosespazos/5.jpg"
-bg_image : "images/portfolio/novosespazos/5.jpg"
-category: "Novos Espazos"
+image : "images/portfolio/novosespazos/6.jpg"
+bg_image : "images/portfolio/novosespazos/6.jpg"
+category: "No-turismo?"
 information:
   - label : "Autora"
     info : "María L."
   - label : "Título"
-    info : "Novos espazos."
+    info : "No-turismo?."
   - label : "Descrición"
     info: "Viaxe á Lisboa das rúas baleiras."
   - label : "Web"
     info : ""
   - label : "Clasificación"
-    info : "Novos Espazos"
+    info : "No-turismo?"
     
 ---
 

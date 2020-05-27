@@ -1,9 +1,9 @@
 ---
 title: "50 días de confinamento, confitado?"
-description: "Xestión socioemocional"
+description: "50 días"
 draft: false
 image : "images/portfolio/milhistorias/3tcubo.jpg"
-category: "Xestión socioemocional"
+category: "50 días"
 bg_image : "images/portfolio/milhistorias/3tcubo.jpg"
 information:
   - label : "Autora"
@@ -13,7 +13,7 @@ information:
   - label : "Web"
     info : "https://www.milhistorias.eu"
   - label : "Clasificación"
-    info : "Xestión socioemocional"
+    info : "50 días"
     
 ---
 
