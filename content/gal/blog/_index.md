@@ -1,6 +1,6 @@
 ---
-title: "Últimas entradas"
+title: Últimas entradas
 description: 
-draft: false
-bg_image: "images/blog/cactus.jpg"
+bg_image: "/images/blog/_7_-2.jpg"
+
 ---
