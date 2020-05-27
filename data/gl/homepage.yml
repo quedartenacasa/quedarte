@@ -40,7 +40,7 @@ service:
 cta:
   enable: true
   bg_image: images/blog/l-s.jpg
-  title: Esinamos ao mundo aquelo que queiras mostrar
+  title: Queres facer a túa exposición virtual?
   content: ''
   button:
     enable: true
