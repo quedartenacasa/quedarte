@@ -25,11 +25,12 @@ portfolio:
   enable: true
   bg_image: images/blog/slide_2.jpg
   title: Por que un museo virtual?
-  content: |2
+  content: |2-
      A arte a través dos soportes dixitais e internet supón un desafío á vez que nos outorga a posibilidade de analizar unha reconfiguración e mesmo transformación dos modos de exposición, presentación e comunicación.
 
 
     <br>Decidimos poñer a etiqueta de Museo Virtual a QuedArte na casa por ser, en termos xerais, unha forma de producir unha experiencia diferenciada, creada pola comunidade, que poida xerar crítica e reflexións.
+    <br/>Fotografía: Rosa Veiga
   button:
     enable: true
     label: Ver obras
