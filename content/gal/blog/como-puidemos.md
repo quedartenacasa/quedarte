@@ -1,10 +1,10 @@
 +++
 author = "Sakhah"
-bg_image = "/images/blog/diseno-sin-titulo-40.png"
+bg_image = "images/blog/blog_como_puidemos.jpg"
 categories = ["Artigos de reflexión"]
 date = 2020-05-20T22:00:00Z
 description = ""
-image = "/images/blog/diseno-sin-titulo-40.png"
+image = "images/blog/blog_como_puidemos.jpg"
 tags = ["Covid-19"]
 title = "Como puidemos?"
 type = "post"
