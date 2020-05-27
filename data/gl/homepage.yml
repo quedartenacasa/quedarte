@@ -3,8 +3,9 @@ banner:
   enable: true
   bg_image: images/blog/slide_1.jpg
   title: QuedArte na casa
-  content: Un espazo de expresión colectiva, de construción de relatos, de discusión
-    a través de imaxes, vídeos, fotografías, sons, literatura, poesía...
+  content: 'Un espazo de expresión colectiva, de construción de relatos, de discusión
+    a través de imaxes, vídeos, fotografías, sons, literatura, poesía... <br/> Fotografía:
+    Alejo Romero Fontán'
   button:
     enable: true
     label: Explora o noso proxecto
