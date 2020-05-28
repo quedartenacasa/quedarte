@@ -1,5 +1,5 @@
 ---
-title: 50 días de confinamento,
+title: 50 días de confinamento
 description: Rosa Veiga
 image: images/portfolio/milhistorias/22thospitaldepantallas.jpg
 bg_image: images/portfolio/milhistorias/22thospitaldepantallas.jpg
