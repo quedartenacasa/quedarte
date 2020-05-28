@@ -3,7 +3,7 @@ title: 50 días de confinamento
 description: Rosa Veiga
 image: images/portfolio/milhistorias/8ttralasfachadas.jpg
 vg_image: images/portfolio/milhistorias/8ttralasfachadas.jpg
-category: 50 días
+category: 50 días de confinamento
 information:
 - label: Autora
   info: Rosa Veiga
