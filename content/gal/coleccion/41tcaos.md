@@ -8,7 +8,7 @@ information:
 - label: Autora
   info: Rosa Veiga
 - label: Título
-  info: 50 días de confinamento, confitado?
+  info: 50 días de confinamento
 - label: Web
   info: https://www.milhistorias.eu
 - label: Clasificación
