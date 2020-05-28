@@ -14,7 +14,7 @@ information:
 - label: Instagram
   info: "@alejoromerofoto"
 - label: Clasificación
-  info: Recomezar
+  info: Mirar en tempos de CoVID
 
 ---
 ## Descrición

@@ -12,7 +12,7 @@ information:
 - label: Web
   info: https://www.milhistorias.eu
 - label: Clasificación
-  info: 50 días
+  info: Mirar en tempos de CoVID
 
 ---
 ## Descrición

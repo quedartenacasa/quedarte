@@ -13,9 +13,9 @@ information:
   - label : "Descrición"
     info: "Viaxe á Lisboa das rúas baleiras."
   - label : "Web"
-    info : ""
-  - label : "Clasificación"
-    info : "Turismo?"
+    info : "" 
+  - label: Clasificación
+    info: Mirar en tempos de CoVID
     
 ---
 
