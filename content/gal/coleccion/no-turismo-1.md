@@ -1,20 +1,23 @@
 ---
-title: Turismo?
-description: María L.
-image: images/portfolio/novosespazos/1.jpg
-bg_image: images/portfolio/novosespazos/1.jpg
-category: No-turismo?
+title: "Turismo?"
+description: "Viaxe á Lisboa das rúas baleiras."
+draft: false
+image : "images/portfolio/novosespazos/1.jpg"
+bg_image : "images/portfolio/novosespazos/1.jpg"
+category: "Turismo?"
 information:
-- label: Autora
-  info: María L.
-- label: Título
-  info: No-turismo?.
-- label: Descrición
-  info: Viaxe á Lisboa das rúas baleiras.
-- label: Web
-  info: ''
-- label: Clasificación
-  info: No-turismo?
+  - label : "Autora"
+    info : "María L."
+  - label : "Título"
+    info : "Turismo?."
+  - label : "Descrición"
+    info: "Viaxe á Lisboa das rúas baleiras."
+  - label : "Web"
+    info : ""
+  - label : "Clasificación"
+    info : "Turismo?"
+    
+---
 
 ---
 ## Descrición
