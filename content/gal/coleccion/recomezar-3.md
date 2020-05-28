@@ -1,24 +1,22 @@
 ---
-title: "Recomezar"
-description: "-"
-draft: false
-image : "images/portfolio/recomezar/_3_.jpg"
-bg_image : "images/portfolio/recomezar/_3_.jpg"
-category: "Recomezar"
+title: Recomezar
+description: Alejo Romero Fontán
+image: images/portfolio/recomezar/_3_.jpg
+bg_image: images/portfolio/recomezar/_3_.jpg
+category: Recomezar
 information:
-  - label : "Autor"
-    info : "Alejo Romero Fontán"
-  - label : "Título"
-    info : "Recomezar."
-  - label : "Instagram"
-    info : "@aromtan"
-  - label : "Instagram"
-    info : "@alejoromerofoto"
-  - label : "Clasificación"
-    info : "Recomezar"
-    
----
+- label: Autor
+  info: Alejo Romero Fontán
+- label: Título
+  info: Recomezar.
+- label: Instagram
+  info: "@aromtan"
+- label: Instagram
+  info: "@alejoromerofoto"
+- label: Clasificación
+  info: Recomezar
 
+---
 ## Descrición
 
 1. Matar aos putos paxaros.
@@ -48,5 +46,3 @@ information:
 13. Chamar ao SEPE.
 
 14. Simular a miña declaración da renda.
-
-
