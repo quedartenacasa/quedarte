@@ -1,24 +1,22 @@
 ---
-title: "No-turismo?"
-description: "Viaxe á Lisboa das rúas baleiras."
-draft: false
-image : "images/portfolio/novosespazos/7.jpg"
-bg_image : "images/portfolio/novosespazos/7.jpg"
-category: "No-turismo?"
+title: Turismo?
+description: María L.
+image: images/portfolio/novosespazos/7.jpg
+bg_image: images/portfolio/novosespazos/7.jpg
+category: No-turismo?
 information:
-  - label : "Autora"
-    info : "María L."
-  - label : "Título"
-    info : "No-turismo?."
-  - label : "Descrición"
-    info: "Viaxe á Lisboa das rúas baleiras."
-  - label : "Web"
-    info : ""
-  - label : "Clasificación"
-    info : "No-turismo?"
-    
----
+- label: Autora
+  info: María L.
+- label: Título
+  info: No-turismo?.
+- label: Descrición
+  info: Viaxe á Lisboa das rúas baleiras.
+- label: Web
+  info: ''
+- label: Clasificación
+  info: No-turismo?
 
+---
 ## Descrición
 
 "Turismo já sofre com Covid-19", así anunciaban os medios portugueses a chegada da pandemia mundial ao país luso.
