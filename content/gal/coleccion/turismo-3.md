@@ -15,7 +15,7 @@ information:
   - label : "Web"
     info : ""
   - label: Clasificación
-    info: Mirar en tempos de CoVID
+    info: Mirar en tempos de COVID-19
       
 ---
 

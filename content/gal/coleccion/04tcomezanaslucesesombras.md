@@ -12,7 +12,7 @@ information:
 - label: Web
   info: https://www.milhistorias.eu
 - label: Clasificación
-  info: Mirar en tempos de CoVID
+  info: Mirar en tempos de COVID-19
 
 ---
 ## Descrición
