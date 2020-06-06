@@ -1,5 +1,5 @@
 ---
-title: Xestión do tempo
+title: Consellos ilustrados
 description: "@Christianconch"
 image: images/portfolio/xestiontempo/tip9.png
 bg_image: images/portfolio/xestiontempo/tip9.png
